@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #0095dd;
+  background-color: rgb(208, 96, 96);
   display: flex;
   flex-direction: column;
   align-items: center;
